@@ -9,7 +9,7 @@ Additionally, two bash scripts were created as part of the project:
 
 ### Bash Scripts
 - [Database Setup Script](https://github.com/jzm0900/Database-Platform-Setup-Testing-and-Optimization/blob/main/db-backup.sh): This script automates the setup tasks for the databases, including configuration and initialization steps.
-- [Database Backup Script](link/to/backup_script.sh): Use this script to automate the backup procedures for the databases, ensuring data integrity and availability.
+- [Database Backup Script](https://github.com/jzm0900/Database-Platform-Setup-Testing-and-Optimization/blob/main/db-setup.sh): Use this script to automate the backup procedures for the databases, ensuring data integrity and availability.
  
 ## Project Details
 The project is divided into three parts:
